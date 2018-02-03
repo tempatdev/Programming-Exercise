@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-//For loop
+/* For loop */
 
 int main(int argc, int **argv)
 {
