@@ -11,12 +11,12 @@ int i;
 
 for(i=0;i<5;i++)
 {
-        printf("For loop #%d \n",i);
         if(i==3)
         {
                 printf("Looping #3 reached. Break! \n");
                 break;
         }
+        printf("For loop #%d \n",i);
 
 }
 
