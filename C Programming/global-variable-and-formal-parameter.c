@@ -16,6 +16,7 @@ int main(int argc, char **argv)
 //local variables
 int a=1,b=2,c=3;
 
+//accessing global variable
 globalvar = a+b+c;
 
 printf("Value: %d \n", globalvar);  //printing value of local variables
