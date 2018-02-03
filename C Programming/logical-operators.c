@@ -2,6 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Logical Operators */
+
+
 int main(int argc, char **argv)
 {
 int a=1,b=2;
