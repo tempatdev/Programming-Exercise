@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-//infinite for loop
+/* infinite for loop */
 
 int main(int argc, char **argv)
 {
