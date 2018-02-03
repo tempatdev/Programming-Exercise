@@ -16,7 +16,7 @@ int main(int argc, char **argv)
 //local variables
 int a=1,b=2,c=3;
 
-//accessing global variable
+//accessing global variable with local variables
 globalvar = a+b+c;
 
 printf("Value: %d \n", globalvar);  //printing value of local variables
@@ -29,7 +29,7 @@ return 0;
 //function f1 init
 int f1(int fa,int fb,int fc)
 {
-        //accessing global variable
+        //accessing global variable in function
         globalvar = fa + fb * fc + 1;
         return globalvar;
 }
