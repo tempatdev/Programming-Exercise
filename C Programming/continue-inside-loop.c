@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-//Continue inside the loop
+/* Continue inside the loop */
 
 
 int main(int argc, char **argv)
