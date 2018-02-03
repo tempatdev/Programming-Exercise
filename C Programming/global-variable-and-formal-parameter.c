@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Global Variable */
+/* Global Variable and Formal Parameter */
 
 //global variable
 int globalvar;
