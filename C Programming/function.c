@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-//function
+/* function */
 
 //for function call by value
 int funcAdd(int a,int b)
