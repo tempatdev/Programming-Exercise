@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Simple assignment operator
+/* Simple assignment operator */
+
 int main(int argc, char **argv)
 {
 
