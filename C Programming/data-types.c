@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/* Data types */
 
 int main(int argc, char ** argv)
 {
