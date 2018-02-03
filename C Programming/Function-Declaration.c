@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-//Function Declaration
+/* Function Declaration */
+
 int add(int a,int b);
 
 
