@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-//Do While loop
+/* Do While loop */
 
 int main(int argc, int **argv)
 {
