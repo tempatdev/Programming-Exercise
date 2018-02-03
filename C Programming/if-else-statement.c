@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//if else statement
+/* if else statement */
 
 int main(int argc, char **argv)
 {
