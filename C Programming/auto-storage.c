@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/* Auto Storage */
+
 int autostorage(int number)
 {
 auto int number2;
