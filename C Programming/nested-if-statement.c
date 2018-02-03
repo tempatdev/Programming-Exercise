@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//nested if statement
+/* nested if statement */
 
 int main(int argc, char **argv)
 {
