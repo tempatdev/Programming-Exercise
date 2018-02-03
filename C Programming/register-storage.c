@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/* Register storage */
 
 int main(int argc, char **argv)
 {
