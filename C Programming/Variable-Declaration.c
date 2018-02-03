@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/* Variable declaration */
 
-//Variable declaration
 extern int a;
 extern float b,c;
 
