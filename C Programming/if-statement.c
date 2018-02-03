@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//if statement
+/* if statement */
 
 int main(int argc, char **argv)
 {
