@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 
-//Nested loop
+/* Nested loops */
 
 int main(int argc, int **argv)
 {
