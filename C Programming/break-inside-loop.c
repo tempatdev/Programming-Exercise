@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-//Break inside the loop
+/* Break inside the loop */
 
 
 int main(int argc, char **argv)
