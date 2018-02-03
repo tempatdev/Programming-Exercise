@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-//Arithmetic Operators
+/* Arithmetic Operators */
+
 
 
 int main(int argc, char **argv)
