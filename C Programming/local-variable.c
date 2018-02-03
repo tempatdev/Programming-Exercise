@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Local Variable
+/* Local Variable */
 
 
 
