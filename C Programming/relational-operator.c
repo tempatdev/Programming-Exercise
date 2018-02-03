@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-//Relational operator
+/* Relational operator */
 
 int main(int argc, char **argv)
 {
