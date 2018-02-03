@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/* Define and Constant */
+
 #define phi 3.14
 
 
